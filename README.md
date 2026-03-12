@@ -1,3 +1,9 @@
+## 🌐 Live Demo
+
+👉 [Click here to play!](https://anand-coder-07.github.io/Rock-Paper-Scissor/)
+]
+
+
 # 🪨📄✂️ Rock Paper Scissors Game
 
 A simple and interactive **Rock Paper Scissors** game built using **HTML, CSS, and JavaScript**.
