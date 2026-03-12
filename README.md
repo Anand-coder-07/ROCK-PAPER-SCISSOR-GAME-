@@ -1,6 +1,6 @@
 ## 🌐 Live Demo
 
-👉 [Click here to play!](https://anand-coder-07.github.io/Rock-Paper-Scissor/)
+👉 [Click here to play!](https://anand-coder-07.github.io/ROCK-PAPER-SCISSOR-GAME-/)
 ]
 
 
